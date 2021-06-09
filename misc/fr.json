@@ -34,23 +34,23 @@
         "WeaponZoomFovMod": "Zoom"
     },
     "lich_quirks": {
-        "allergic_to_nature": "Allergic to Nature",
-        "always_hungry": "Always Hungry",
-        "bloodhound": "Bloodhound",
-        "coward": "Coward",
-        "deserter": "Deserter",
-        "fear_of_being_alone": "Fear of Being Alone",
-        "fear_of_children": "Fear of Children",
-        "fear_of_kubrows": "Fear of Kubrows",
-        "fear_of_space_travel": "Fear of Space Travel",
-        "hatred_of_corpus": "Hatred of Corpus",
-        "hatred_of_infested": "Hatred of Infested",
-        "loner": "Loner",
-        "paranoid": "Paranoid",
-        "poor_sense_of_balance": "Poor Sense of Balance",
-        "prone_to_vertigo": "Prone to Vertigo",
-        "pyromaniac": "Pyromaniac",
-        "trophy_hunter": "Trophy Hunter",
+        "allergic_to_nature": "Allergique à la Nature",
+        "always_hungry": "Toujours affamé",
+        "bloodhound": "Limier",
+        "coward": "Lâche",
+        "deserter": "Déserteur",
+        "fear_of_being_alone": "Peur d'être seul",
+        "fear_of_children": "Peur des enfants",
+        "fear_of_kubrows": "Peur des Kubrows",
+        "fear_of_space_travel": "Peur des voyage dans l'espace",
+        "hatred_of_corpus": "Haine des corpus",
+        "hatred_of_infested": "Haine des Infestés",
+        "loner": "Solitaire",
+        "paranoid": "Paranoïaque",
+        "poor_sense_of_balance": "Mauvais sens de l'équilibre",
+        "prone_to_vertigo": "Sujet au vertige",
+        "pyromaniac": "Pyromane",
+        "trophy_hunter": "Trophée du Chasseur",
         "vain": "Vain"
     },
     "rarity": {
@@ -58,13 +58,13 @@
         "uncommon": "{relic_name} (Inhabituel)",
         "rare": "{relic_name} (Rare)",
         "legendary": "{relic_name} (Légendaire)",
-        "peculiar": "{relic_name} (Peculiar)"
+        "peculiar": "{relic_name} (Atypique)"
     },
     "templates": {
         "set": "{item_name} - Set",
         "blueprint": "{item_name} - Schéma",
         "imprint": "{item_name} - Empreinte",
-        "keys": "{item_name} (Key)",
-        "veiled_riven": "{item_name} (Veiled)"
+        "keys": "{item_name} (Clé)",
+        "veiled_riven": "{item_name} (Voilé)"
     }
 }
